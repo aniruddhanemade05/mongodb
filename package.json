@@ -1,0 +1,14 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "mongodb Assignmeent ",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aniruddhanemade2005@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.9.2"
+  }
+}
